@@ -22,7 +22,7 @@ python main.py
 
 ## Autor
 
-- [Seu Nome](https://github.com/seu-usuario)
+Dheiver
 
 ## Licença
 
